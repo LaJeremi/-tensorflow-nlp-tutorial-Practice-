@@ -5,4 +5,4 @@
 
 https://wikidocs.net/book/2155!
 
-[The book image1]
+<img width="90%" src="https://user-images.githubusercontent.com/122717927/224620033-d45da3d3-ad27-48aa-896f-bdab83d5d9ff.png"/>
